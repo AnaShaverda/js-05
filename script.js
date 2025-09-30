@@ -89,3 +89,15 @@ myNewDiv.addEventListener("click", (event) => {
     event.target.classList.replace("disabled", "enabled");
   }
 });
+
+// function myFunc() {
+//   console.log("hello");
+// }
+
+const element = document.getElementById("test");
+
+// element.addEventListener("click", myFunc);
+
+element.onclick = function () {
+  console.log("hello0");
+};
