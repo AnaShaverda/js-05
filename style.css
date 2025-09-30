@@ -1,0 +1,38 @@
+#myDiv {
+  width: 200px;
+  height: 200px;
+  background-color: tomato;
+}
+#myDiv2 {
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;
+}
+
+.error {
+  color: red;
+}
+#myNewDiv {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+}
+
+.blue {
+  background-color: blue;
+}
+.red {
+  background-color: tomato;
+}
+
+.hover {
+  background-color: black;
+  color: white;
+}
+
+.enabled {
+  background-color: green;
+}
+.disabled {
+  background-color: grey;
+}
